@@ -1,0 +1,65 @@
+{
+	"empStr": {
+		"empNo": 100,
+		"empName": "Anubhav",
+		"salary": 10000,
+		"curr": "EUR"
+	},
+
+	"empTab": [{
+		"empNo": 200,
+		"empName": "Ranjan",
+		"salary": 12000,
+		"curr": "EUR",
+		"gender": "https://static.thenounproject.com/png/1527140-200.png",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 4
+	}, {
+
+		"empNo": 201,
+		"empName": "Akash",
+		"salary": 11000,
+		"curr": "EUR",
+		"gender": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F26%2F12%2F25%2Fmale-1354358_960_720.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Fmale-female-icon-avatar-man-woman-1354358%2F&docid=U6xrFWDbMcpoqM&tbnid=uaiXR6qOLOqpiM%3A&vet=10ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM..i&w=960&h=518&bih=667&biw=1366&q=female%20icon&ved=0ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM&iact=mrc&uact=8",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 3
+	}, {
+		"empNo": 203,
+		"empName": "Ashish",
+		"salary": 22000,
+		"curr": "EUR",
+		"gender": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F26%2F12%2F25%2Fmale-1354358_960_720.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Fmale-female-icon-avatar-man-woman-1354358%2F&docid=U6xrFWDbMcpoqM&tbnid=uaiXR6qOLOqpiM%3A&vet=10ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM..i&w=960&h=518&bih=667&biw=1366&q=female%20icon&ved=0ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM&iact=mrc&uact=8",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 5
+	}, {
+		"empNo": 204,
+		"empName": "Rabi",
+		"salary": 21000,
+		"curr": "EUR",
+		"gender": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F26%2F12%2F25%2Fmale-1354358_960_720.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Fmale-female-icon-avatar-man-woman-1354358%2F&docid=U6xrFWDbMcpoqM&tbnid=uaiXR6qOLOqpiM%3A&vet=10ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM..i&w=960&h=518&bih=667&biw=1366&q=female%20icon&ved=0ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM&iact=mrc&uact=8",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 6
+	}, {
+		"empNo": 205,
+		"empName": "NIkhlesh",
+		"salary": 20000,
+		"curr": "EUR",
+		"gender": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F26%2F12%2F25%2Fmale-1354358_960_720.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Fmale-female-icon-avatar-man-woman-1354358%2F&docid=U6xrFWDbMcpoqM&tbnid=uaiXR6qOLOqpiM%3A&vet=10ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM..i&w=960&h=518&bih=667&biw=1366&q=female%20icon&ved=0ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM&iact=mrc&uact=8",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 6
+	}, {
+		"empNo": 206,
+		"empName": "Mahabir",
+		"salary": 19000,
+		"curr": "EUR",
+		"gender": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F04%2F26%2F12%2F25%2Fmale-1354358_960_720.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Fmale-female-icon-avatar-man-woman-1354358%2F&docid=U6xrFWDbMcpoqM&tbnid=uaiXR6qOLOqpiM%3A&vet=10ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM..i&w=960&h=518&bih=667&biw=1366&q=female%20icon&ved=0ahUKEwjlh52b9d3jAhULT30KHe0jClYQMwi8ASgjMCM&iact=mrc&uact=8",
+		"smoker": true,
+		"mstat": "single",
+		"rating": 7
+	}]
+}

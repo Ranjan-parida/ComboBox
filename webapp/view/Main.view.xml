@@ -1,0 +1,69 @@
+<mvc:View 
+controllerName="demoapp.controller.Main" 
+xmlns:mvc="sap.ui.core.mvc" 
+xmlns:core="sap.ui.core"
+xmlns:form="sap.ui.layout.form"
+xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page">
+					<content>
+						<ComboBox id="combo1" items="{/empTab}" selectionChange="onChange" >
+							<items>
+								<core:ListItem id="item0" text="{empName}"/>
+							</items>
+						</ComboBox>
+						
+						<form:SimpleForm  id="sk">
+							<Label text="empName"></Label>
+							<Input value="{empName}"></Input>
+								<Label text="empNo"></Label>
+							<Input value="{empNo}"></Input>
+								<Label text="Salary"></Label>
+							<Input value="{salary}"></Input>
+								<Label text="Currency"></Label>
+							<Input value="{curr}"></Input>
+						</form:SimpleForm>
+					<Table id="idTable" items="{/empTab}" itemPress="onselect" >
+						<columns>
+							<Column>
+								<Text text="empNo"/>
+							</Column>
+							<Column>
+								<Text text="empName"/>
+							</Column>
+							<Column>
+								<Text text="salary"/>
+							</Column>
+							<Column>
+								<Text text="curr"/>
+							</Column>
+							<Column>
+								<Text text="gender"/>
+							</Column>
+							<Column>
+								<Text text="smoker"/>
+							</Column>
+						</columns>
+						<items>
+							<ColumnListItem type="Active">
+								<cells>
+									<Text text="{empNo}"></Text>
+									<Text text="{empName}"></Text>
+									<Text text="{salary}"></Text>
+									<Text text="{curr}"></Text>
+									<Image src="{gender}" width="100px"/>
+									<Text text="{smoker}"></Text>
+								</cells>
+								
+							</ColumnListItem>
+						</items>
+						</Table>
+				
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
